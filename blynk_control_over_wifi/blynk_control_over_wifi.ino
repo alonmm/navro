@@ -12,7 +12,7 @@ char auth[] = "bc757fec10104759b7a9ec2e4f57478d";
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "HOTBOX-72F6";
-char pass[] = "password";
+char pass[] = "your_pass";
 
 // -- timer
 unsigned int i_on = 0;
